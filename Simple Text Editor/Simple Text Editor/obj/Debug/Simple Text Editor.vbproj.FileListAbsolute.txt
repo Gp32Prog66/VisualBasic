@@ -1,0 +1,12 @@
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\bin\Debug\Simple Text Editor.xml
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.vbprojAssemblyReference.cache
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple_Text_Editor.Form1.resources
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple_Text_Editor.Resources.resources
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.vbproj.GenerateResource.cache
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.vbproj.CoreCompileInputs.cache
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.xml
+G:\CIT 161\Chapter 9\Simple Text Editor\Simple Text Editor\obj\Debug\Simple Text Editor.pdb
