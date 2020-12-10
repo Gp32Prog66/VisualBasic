@@ -1,0 +1,14 @@
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.pdb
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.xml
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbprojAssemblyReference.cache
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.AudioBookForm.resources
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.PrintBookForm.resources
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.ShoppingCartForm.resources
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Resources.resources
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbproj.GenerateResource.cache
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.vbproj.CoreCompileInputs.cache
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.xml
+G:\CIT 161\Chapter 7\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb

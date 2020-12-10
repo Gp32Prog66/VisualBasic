@@ -1,0 +1,13 @@
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food Facts.vbprojAssemblyReference.cache
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food_Facts.MainForm.resources
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food_Facts.Resources.resources
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food Facts.vbproj.GenerateResource.cache
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food Facts.vbproj.CoreCompileInputs.cache
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\bin\Debug\Food Facts.exe.config
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\bin\Debug\Food Facts.exe
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\bin\Debug\Food Facts.pdb
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\bin\Debug\Food Facts.xml
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food Facts.exe
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food Facts.xml
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food Facts.pdb
+G:\CIT 161\Chapter 7\Food Facts\Food Facts\obj\Debug\Food_Facts.NutritionForm.resources
